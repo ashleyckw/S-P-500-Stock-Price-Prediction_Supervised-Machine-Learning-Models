@@ -16,8 +16,8 @@ This project focuses on predicting stock prices of S&P 500 companies using super
 * TensorFlow, Keras
 
 ## Files
-**A.csv**: Historical stock price data (Dataset) for selected S&P 500 companies like AAPL, ABBV, etc.
-`supervised_learning.ipynb`: Jupyter notebook for building, training, and evaluating the machine learning models (LSTM, Random Forest, and Decision Tree).
+* **A.csv**: Historical stock price data (Dataset) for selected S&P 500 companies like AAPL, ABBV, etc.
+* `supervised_learning.ipynb`: Jupyter notebook for building, training, and evaluating the machine learning models (LSTM, Random Forest, and Decision Tree).
 
 ## Usage
 Run the Notebook: Open and run supervised_learning.ipynb in a Jupyter notebook environment to train and evaluate the models:
