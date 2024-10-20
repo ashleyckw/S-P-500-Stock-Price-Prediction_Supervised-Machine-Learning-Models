@@ -1,4 +1,4 @@
-# S-P-500-Stock-Price-Prediction_Supervised-Machine-Learning-Models
+# S&P-500-Stock-Price-Prediction_Supervised-Machine-Learning-Models
 This project focuses on predicting stock prices of S&P 500 companies using supervised machine learning models. It includes time series forecasting using LSTM and stock price analysis with Random Forest and Decision Tree models. The models help forecast stock trends based on historical data.
 
 ## Key Features
